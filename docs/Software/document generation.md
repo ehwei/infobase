@@ -1,4 +1,7 @@
-# Documentation Generators
+---
+id: document-generation
+title: "Document Generation"
+---
 
 ## resources
 - [Medium/Comparison of Python documentation generators](https://medium.com/@peterkong/comparison-of-python-documentation-generators-660203ca3804)

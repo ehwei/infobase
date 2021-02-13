@@ -1,4 +1,7 @@
-# Angela's Ultimate Software List
+---
+id: sofware-list
+title: "The Ultimate Software List"
+---
 
 ## Productivity
 * [ttscoff/doing](https://github.com/ttscoff/doing/) - command line tool to track what you were doing and what you've done
@@ -16,7 +19,8 @@
 ## Multimedia
 
 ### Audio
-* Voicemeeter - audio mixer with a virtual audio device which can be used to selectively route audio to and from different programs.
+
+  Voicemeeter - audio mixer with a virtual audio device which can be used to selectively route audio to and from different programs.
 * [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) - download VODs, clips and chat from Twitch
 * [Balabolka](http://www.cross-plus-a.com/balabolka.htm) - TTS software that supports system voices and various online TTS providers (e.g. Google Cloud TTS)
 
