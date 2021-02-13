@@ -16,7 +16,7 @@
 ## Multimedia
 
 ### Audio
-* [Voicemeeter](Voicemeeter.md) - audio mixer with a virtual audio device which can be used to selectively route audio to and from different programs.
+* Voicemeeter - audio mixer with a virtual audio device which can be used to selectively route audio to and from different programs.
 * [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) - download VODs, clips and chat from Twitch
 * [Balabolka](http://www.cross-plus-a.com/balabolka.htm) - TTS software that supports system voices and various online TTS providers (e.g. Google Cloud TTS)
 
