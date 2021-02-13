@@ -1,5 +1,6 @@
 ---
 id: sofware-list
+slug: software-list
 title: "The Ultimate Software List"
 ---
 
